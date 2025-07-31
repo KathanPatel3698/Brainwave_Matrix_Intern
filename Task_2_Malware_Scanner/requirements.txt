@@ -1,0 +1,9 @@
+requests
+python-magic
+python-magic-bin
+pefile
+cryptography
+asn1crypto
+# netifaces
+PyQt6
+pyinstaller
